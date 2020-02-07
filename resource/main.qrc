@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource prefix="resource">
+    <file alias="bck_img.jpg">2.jpg</file>
+    <file alias="combobox1.jpg">81.jpg</file>
+    <file alias="combobox2.jpg">82.jpg</file>
+    <file alias="clock_load.png">document-clock.png</file>
+	</qresource>
+</RCC>
