@@ -3,4 +3,5 @@
 _tube_.db
 *.sln
 *.pyproj
-/.vs/youtube_application/v16
+.*
+!/.gitignore
