@@ -13,12 +13,10 @@ library which is written in c++ language.
 
 ### Screenshots
 
-<img src="https://drive.google.com/uc?export=view&id=1TFYlAbZ6P-tNdqfiMCh3WdGFCY6V09tz"/>
-<img src="https://drive.google.com/uc?export=view&id=1Wmso5AN-UspByH4rebV5xHsOuGp2wvYI"/>
+![Main View](preview/1.png)
+![Main View 2](preview/2.png)
 
-# <a id="download"></a>
-<img src="https://drive.google.com/uc?export=view&id=1bl-X21APsVXZzbroo6QihUGXKLGfd6dF"/>
-
-# <a id="history"></a>
-<img src="https://drive.google.com/uc?export=view&id=1ZcBBGO5oCQCYuJmFnYs1YsrAN23GHvLT"/>
-
+## <a id="download"></a>
+![Download](preview/3.png)
+## <a id="history"></a>
+![History](preview/4.png)
