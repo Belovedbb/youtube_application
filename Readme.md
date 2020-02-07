@@ -13,10 +13,10 @@ library which is written in c++ language.
 
 ### Screenshots
 
-![Main View](preview/1.png)
-![Main View 2](preview/2.png)
+![Main View](preview/1.PNG)
+![Main View 2](preview/2.PNG)
 
 ## <a id="download"></a>
-![Download](preview/3.png)
+![Download](preview/3.PNG)
 ## <a id="history"></a>
-![History](preview/4.png)
+![History](preview/4.PNG)
